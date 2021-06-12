@@ -130,3 +130,10 @@ dmypy.json
 
 #IDE
 .vscode
+
+
+#results directories
+reviews
+
+#Plots
+plots
