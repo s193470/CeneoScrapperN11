@@ -1,6 +1,7 @@
 from os import listdir
-from matplotlib import show as plt
+from matplotlib import pyplot as plt
 import pandas as pd
+import numpy as np
 
 
 def convert_stars(stars):
